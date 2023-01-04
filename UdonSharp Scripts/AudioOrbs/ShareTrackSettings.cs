@@ -1,3 +1,9 @@
+/* 
+Saves and loads AudioOrbs world information to and from a string. Synchronizes settings to remote players.
+
+Some of this is probably done pretty poorly, many aspects of this I was learning as I went.
+So please don't expect the most optimal setup, I'm sure it could be improved. -KB
+*/
 using UdonSharp;
 using UnityEngine;
 using UnityEngine.UI;
